@@ -52,9 +52,9 @@
     {
       "sno": "8",
       "subject": "Cryptography & Network Security Lab",
-      "held": 21,
-      "present": 15,
-      "percentage": "71.4%"
+      "held": 24,
+      "present": 18,
+      "percentage": "75.0%"
     },
     {
       "sno": "9",
@@ -85,6 +85,6 @@
       "percentage": "66.7%"
     }
   ],
-  "overall_percentage": "81.59 %",
-  "timestamp": "08/02/2026 10:55"
+  "overall_percentage": "81.82 %",
+  "timestamp": "09/02/2026 04:04"
 }
