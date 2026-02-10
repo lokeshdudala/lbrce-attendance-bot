@@ -24,16 +24,16 @@
     {
       "sno": "4",
       "subject": "Machine Learning",
-      "held": 23,
-      "present": 20,
-      "percentage": "87.0%"
+      "held": 24,
+      "present": 21,
+      "percentage": "87.5%"
     },
     {
       "sno": "5",
       "subject": "Software Project Management",
-      "held": 22,
-      "present": 17,
-      "percentage": "77.3%"
+      "held": 23,
+      "present": 18,
+      "percentage": "78.3%"
     },
     {
       "sno": "6",
@@ -85,6 +85,6 @@
       "percentage": "66.7%"
     }
   ],
-  "overall_percentage": "81.97 %",
-  "timestamp": "10/02/2026 04:12"
+  "overall_percentage": "82.11 %",
+  "timestamp": "10/02/2026 11:29"
 }
