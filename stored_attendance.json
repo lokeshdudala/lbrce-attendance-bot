@@ -17,16 +17,16 @@
     {
       "sno": "3",
       "subject": "Cryptography & Network Security",
-      "held": 36,
+      "held": 37,
       "present": 29,
-      "percentage": "80.6%"
+      "percentage": "78.4%"
     },
     {
       "sno": "4",
       "subject": "Machine Learning",
-      "held": 28,
-      "present": 24,
-      "percentage": "85.7%"
+      "held": 29,
+      "present": 25,
+      "percentage": "86.2%"
     },
     {
       "sno": "5",
@@ -38,9 +38,9 @@
     {
       "sno": "6",
       "subject": "Disaster Management",
-      "held": 34,
+      "held": 35,
       "present": 32,
-      "percentage": "94.1%"
+      "percentage": "91.4%"
     },
     {
       "sno": "7",
@@ -73,9 +73,9 @@
     {
       "sno": "11",
       "subject": "ASSOCIATION",
-      "held": 9,
+      "held": 10,
       "present": 7,
-      "percentage": "77.8%"
+      "percentage": "70.0%"
     },
     {
       "sno": "12",
@@ -85,6 +85,6 @@
       "percentage": "75.0%"
     }
   ],
-  "overall_percentage": "83.39 %",
-  "timestamp": "21/02/2026 03:36"
+  "overall_percentage": "82.59 %",
+  "timestamp": "21/02/2026 10:53"
 }
