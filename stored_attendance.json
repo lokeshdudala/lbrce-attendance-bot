@@ -3,9 +3,9 @@
     {
       "sno": "1",
       "subject": "Compiler Design",
-      "held": 43,
-      "present": 34,
-      "percentage": "79.1%"
+      "held": 44,
+      "present": 35,
+      "percentage": "79.5%"
     },
     {
       "sno": "2",
@@ -17,9 +17,9 @@
     {
       "sno": "3",
       "subject": "Cryptography & Network Security",
-      "held": 42,
-      "present": 33,
-      "percentage": "78.6%"
+      "held": 43,
+      "present": 34,
+      "percentage": "79.1%"
     },
     {
       "sno": "4",
@@ -66,9 +66,9 @@
     {
       "sno": "10",
       "subject": "Technical Paper Writing & IPR",
-      "held": 20,
-      "present": 17,
-      "percentage": "85.0%"
+      "held": 21,
+      "present": 18,
+      "percentage": "85.7%"
     },
     {
       "sno": "11",
@@ -85,6 +85,6 @@
       "percentage": "80.0%"
     }
   ],
-  "overall_percentage": "84.02 %",
-  "timestamp": "05/03/2026 03:41"
+  "overall_percentage": "84.16 %",
+  "timestamp": "05/03/2026 11:08"
 }
