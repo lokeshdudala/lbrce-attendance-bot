@@ -3,9 +3,9 @@
     {
       "sno": "1",
       "subject": "Compiler Design",
-      "held": 45,
-      "present": 36,
-      "percentage": "80.0%"
+      "held": 46,
+      "present": 37,
+      "percentage": "80.4%"
     },
     {
       "sno": "2",
@@ -38,9 +38,9 @@
     {
       "sno": "6",
       "subject": "Disaster Management",
-      "held": 41,
-      "present": 37,
-      "percentage": "90.2%"
+      "held": 42,
+      "present": 38,
+      "percentage": "90.5%"
     },
     {
       "sno": "7",
@@ -85,6 +85,6 @@
       "percentage": "80.0%"
     }
   ],
-  "overall_percentage": "84.27 %",
-  "timestamp": "09/03/2026 03:55"
+  "overall_percentage": "84.36 %",
+  "timestamp": "09/03/2026 11:10"
 }
