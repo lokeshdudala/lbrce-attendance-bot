@@ -3,37 +3,37 @@
     {
       "sno": "1",
       "subject": "Compiler Design",
-      "held": 47,
-      "present": 38,
-      "percentage": "80.9%"
+      "held": 48,
+      "present": 39,
+      "percentage": "81.3%"
     },
     {
       "sno": "2",
       "subject": "Cloud Computing",
-      "held": 17,
-      "present": 14,
-      "percentage": "82.4%"
+      "held": 35,
+      "present": 28,
+      "percentage": "80.0%"
     },
     {
       "sno": "3",
       "subject": "Cryptography & Network Security",
-      "held": 48,
-      "present": 38,
-      "percentage": "79.2%"
+      "held": 49,
+      "present": 39,
+      "percentage": "79.6%"
     },
     {
       "sno": "4",
       "subject": "Machine Learning",
-      "held": 34,
-      "present": 29,
-      "percentage": "85.3%"
+      "held": 35,
+      "present": 30,
+      "percentage": "85.7%"
     },
     {
       "sno": "5",
       "subject": "Software Project Management",
-      "held": 35,
-      "present": 29,
-      "percentage": "82.9%"
+      "held": 36,
+      "present": 30,
+      "percentage": "83.3%"
     },
     {
       "sno": "6",
@@ -45,9 +45,9 @@
     {
       "sno": "7",
       "subject": "Cloud Computing Lab",
-      "held": 18,
-      "present": 18,
-      "percentage": "100.0%"
+      "held": 33,
+      "present": 30,
+      "percentage": "90.9%"
     },
     {
       "sno": "8",
@@ -66,9 +66,9 @@
     {
       "sno": "10",
       "subject": "Technical Paper Writing & IPR",
-      "held": 23,
+      "held": 24,
       "present": 20,
-      "percentage": "87.0%"
+      "percentage": "83.3%"
     },
     {
       "sno": "11",
@@ -85,6 +85,6 @@
       "percentage": "81.8%"
     }
   ],
-  "overall_percentage": "84.31 %",
-  "timestamp": "13/03/2026 03:42"
+  "overall_percentage": "83.82 %",
+  "timestamp": "13/03/2026 11:05"
 }
