@@ -10,9 +10,9 @@
     {
       "sno": "2",
       "subject": "Cloud Computing",
-      "held": 46,
-      "present": 37,
-      "percentage": "80.4%"
+      "held": 47,
+      "present": 38,
+      "percentage": "80.9%"
     },
     {
       "sno": "3",
@@ -45,9 +45,9 @@
     {
       "sno": "7",
       "subject": "Cloud Computing Lab",
-      "held": 36,
-      "present": 33,
-      "percentage": "91.7%"
+      "held": 39,
+      "present": 36,
+      "percentage": "92.3%"
     },
     {
       "sno": "8",
@@ -85,6 +85,6 @@
       "percentage": "75.0%"
     }
   ],
-  "overall_percentage": "82.42 %",
-  "timestamp": "24/03/2026 11:24"
+  "overall_percentage": "82.57 %",
+  "timestamp": "25/03/2026 03:58"
 }
