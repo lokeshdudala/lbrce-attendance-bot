@@ -3,8 +3,8 @@
     {
       "sno": "1",
       "subject": "Deep Learning",
-      "held": 9,
-      "present": 9,
+      "held": 10,
+      "present": 10,
       "percentage": "100.0%"
     },
     {
@@ -17,9 +17,9 @@
     {
       "sno": "3",
       "subject": "Devops",
-      "held": 8,
-      "present": 7,
-      "percentage": "87.5%"
+      "held": 9,
+      "present": 8,
+      "percentage": "88.9%"
     },
     {
       "sno": "4",
@@ -38,8 +38,8 @@
     {
       "sno": "6",
       "subject": "Prompt Engineering",
-      "held": 8,
-      "present": 8,
+      "held": 11,
+      "present": 11,
       "percentage": "100.0%"
     },
     {
@@ -66,8 +66,8 @@
     {
       "sno": "10",
       "subject": "SELF LEARNING",
-      "held": 2,
-      "present": 2,
+      "held": 3,
+      "present": 3,
       "percentage": "100.0%"
     },
     {
@@ -78,6 +78,6 @@
       "percentage": "100.0%"
     }
   ],
-  "overall_percentage": "96.88 %",
-  "timestamp": "13/07/2026 04:55"
+  "overall_percentage": "97.14 %",
+  "timestamp": "13/07/2026 13:01"
 }
