@@ -3,8 +3,8 @@
     {
       "sno": "1",
       "subject": "Deep Learning",
-      "held": 17,
-      "present": 17,
+      "held": 18,
+      "present": 18,
       "percentage": "100.0%"
     },
     {
@@ -24,15 +24,15 @@
     {
       "sno": "4",
       "subject": "Generative AI",
-      "held": 21,
-      "present": 21,
+      "held": 22,
+      "present": 22,
       "percentage": "100.0%"
     },
     {
       "sno": "5",
       "subject": "Utilization of Electrical Energy",
-      "held": 15,
-      "present": 15,
+      "held": 16,
+      "present": 16,
       "percentage": "100.0%"
     },
     {
@@ -59,8 +59,8 @@
     {
       "sno": "9",
       "subject": "Technical Training",
-      "held": 12,
-      "present": 12,
+      "held": 15,
+      "present": 15,
       "percentage": "100.0%"
     },
     {
@@ -78,6 +78,6 @@
       "percentage": "100.0%"
     }
   ],
-  "overall_percentage": "97.89 %",
-  "timestamp": "29/07/2026 04:42"
+  "overall_percentage": "97.97 %",
+  "timestamp": "29/07/2026 12:29"
 }
