@@ -3,30 +3,30 @@
     {
       "sno": "1",
       "subject": "Deep Learning",
-      "held": 36,
-      "present": 33,
-      "percentage": "91.7%"
+      "held": 37,
+      "present": 34,
+      "percentage": "91.9%"
     },
     {
       "sno": "2",
       "subject": "Human Resources & Project Management",
-      "held": 22,
-      "present": 19,
-      "percentage": "86.4%"
+      "held": 23,
+      "present": 20,
+      "percentage": "87.0%"
     },
     {
       "sno": "3",
       "subject": "Devops",
-      "held": 39,
-      "present": 30,
-      "percentage": "76.9%"
+      "held": 40,
+      "present": 31,
+      "percentage": "77.5%"
     },
     {
       "sno": "4",
       "subject": "Generative AI",
-      "held": 43,
-      "present": 38,
-      "percentage": "88.4%"
+      "held": 44,
+      "present": 39,
+      "percentage": "88.6%"
     },
     {
       "sno": "5",
@@ -66,8 +66,8 @@
     {
       "sno": "10",
       "subject": "SELF LEARNING",
-      "held": 10,
-      "present": 10,
+      "held": 11,
+      "present": 11,
       "percentage": "100.0%"
     },
     {
@@ -78,6 +78,6 @@
       "percentage": "71.4%"
     }
   ],
-  "overall_percentage": "88.24 %",
-  "timestamp": "08/09/2026 06:09"
+  "overall_percentage": "88.44 %",
+  "timestamp": "08/09/2026 14:43"
 }
