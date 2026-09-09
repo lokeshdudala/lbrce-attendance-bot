@@ -45,9 +45,9 @@
     {
       "sno": "7",
       "subject": "Constitution of India",
-      "held": 19,
-      "present": 18,
-      "percentage": "94.7%"
+      "held": 20,
+      "present": 19,
+      "percentage": "95.0%"
     },
     {
       "sno": "8",
@@ -78,6 +78,6 @@
       "percentage": "71.4%"
     }
   ],
-  "overall_percentage": "88.44 %",
-  "timestamp": "08/09/2026 14:43"
+  "overall_percentage": "88.47 %",
+  "timestamp": "09/09/2026 06:15"
 }
