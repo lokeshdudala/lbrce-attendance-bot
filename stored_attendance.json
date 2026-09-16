@@ -3,9 +3,9 @@
     {
       "sno": "1",
       "subject": "Deep Learning",
-      "held": 41,
+      "held": 42,
       "present": 37,
-      "percentage": "90.2%"
+      "percentage": "88.1%"
     },
     {
       "sno": "2",
@@ -17,9 +17,9 @@
     {
       "sno": "3",
       "subject": "Devops",
-      "held": 42,
-      "present": 33,
-      "percentage": "78.6%"
+      "held": 43,
+      "present": 34,
+      "percentage": "79.1%"
     },
     {
       "sno": "4",
@@ -31,9 +31,9 @@
     {
       "sno": "5",
       "subject": "Utilization of Electrical Energy",
-      "held": 35,
+      "held": 36,
       "present": 32,
-      "percentage": "91.4%"
+      "percentage": "88.9%"
     },
     {
       "sno": "6",
@@ -46,8 +46,8 @@
       "sno": "7",
       "subject": "Constitution of India",
       "held": 22,
-      "present": 21,
-      "percentage": "95.5%"
+      "present": 20,
+      "percentage": "90.9%"
     },
     {
       "sno": "8",
@@ -59,9 +59,9 @@
     {
       "sno": "9",
       "subject": "Technical Training",
-      "held": 30,
+      "held": 33,
       "present": 30,
-      "percentage": "100.0%"
+      "percentage": "90.9%"
     },
     {
       "sno": "10",
@@ -78,6 +78,6 @@
       "percentage": "71.4%"
     }
   ],
-  "overall_percentage": "87.74 %",
-  "timestamp": "15/09/2026 15:11"
+  "overall_percentage": "86.11 %",
+  "timestamp": "16/09/2026 06:19"
 }
