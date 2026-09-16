@@ -24,9 +24,9 @@
     {
       "sno": "4",
       "subject": "Generative AI",
-      "held": 47,
+      "held": 48,
       "present": 40,
-      "percentage": "85.1%"
+      "percentage": "83.3%"
     },
     {
       "sno": "5",
@@ -78,6 +78,6 @@
       "percentage": "71.4%"
     }
   ],
-  "overall_percentage": "86.11 %",
-  "timestamp": "16/09/2026 06:19"
+  "overall_percentage": "85.85 %",
+  "timestamp": "16/09/2026 15:07"
 }
