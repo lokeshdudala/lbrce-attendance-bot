@@ -3,9 +3,9 @@
     {
       "sno": "1",
       "subject": "Deep Learning",
-      "held": 43,
+      "held": 44,
       "present": 37,
-      "percentage": "86.0%"
+      "percentage": "84.1%"
     },
     {
       "sno": "2",
@@ -31,9 +31,9 @@
     {
       "sno": "5",
       "subject": "Utilization of Electrical Energy",
-      "held": 37,
-      "present": 32,
-      "percentage": "86.5%"
+      "held": 38,
+      "present": 33,
+      "percentage": "86.8%"
     },
     {
       "sno": "6",
@@ -78,6 +78,6 @@
       "percentage": "71.4%"
     }
   ],
-  "overall_percentage": "84.55 %",
-  "timestamp": "17/09/2026 15:11"
+  "overall_percentage": "84.34 %",
+  "timestamp": "18/09/2026 06:11"
 }
