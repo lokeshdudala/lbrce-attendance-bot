@@ -31,16 +31,16 @@
     {
       "sno": "5",
       "subject": "Utilization of Electrical Energy",
-      "held": 41,
-      "present": 36,
-      "percentage": "87.8%"
+      "held": 42,
+      "present": 37,
+      "percentage": "88.1%"
     },
     {
       "sno": "6",
       "subject": "Prompt Engineering",
-      "held": 39,
-      "present": 35,
-      "percentage": "89.7%"
+      "held": 40,
+      "present": 36,
+      "percentage": "90.0%"
     },
     {
       "sno": "7",
@@ -78,6 +78,6 @@
       "percentage": "75.0%"
     }
   ],
-  "overall_percentage": "83.79 %",
-  "timestamp": "24/09/2026 15:24"
+  "overall_percentage": "83.88 %",
+  "timestamp": "25/09/2026 06:18"
 }
