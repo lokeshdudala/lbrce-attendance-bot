@@ -10,23 +10,23 @@
     {
       "sno": "2",
       "subject": "Human Resources & Project Management",
-      "held": 32,
-      "present": 26,
-      "percentage": "81.3%"
+      "held": 33,
+      "present": 27,
+      "percentage": "81.8%"
     },
     {
       "sno": "3",
       "subject": "Devops",
-      "held": 58,
-      "present": 46,
-      "percentage": "79.3%"
+      "held": 59,
+      "present": 47,
+      "percentage": "79.7%"
     },
     {
       "sno": "4",
       "subject": "Generative AI",
-      "held": 63,
-      "present": 51,
-      "percentage": "81.0%"
+      "held": 64,
+      "present": 52,
+      "percentage": "81.3%"
     },
     {
       "sno": "5",
@@ -52,9 +52,9 @@
     {
       "sno": "8",
       "subject": "Evaluation of Industry Internship /Mini Project",
-      "held": 18,
-      "present": 14,
-      "percentage": "77.8%"
+      "held": 20,
+      "present": 16,
+      "percentage": "80.0%"
     },
     {
       "sno": "9",
@@ -78,6 +78,6 @@
       "percentage": "70.0%"
     }
   ],
-  "overall_percentage": "84.26 %",
-  "timestamp": "09/10/2026 07:39"
+  "overall_percentage": "84.44 %",
+  "timestamp": "09/10/2026 17:08"
 }
