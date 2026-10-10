@@ -17,9 +17,9 @@
     {
       "sno": "3",
       "subject": "Devops",
-      "held": 59,
+      "held": 60,
       "present": 47,
-      "percentage": "79.7%"
+      "percentage": "78.3%"
     },
     {
       "sno": "4",
@@ -73,11 +73,11 @@
     {
       "sno": "11",
       "subject": "ASSOCIATION",
-      "held": 20,
+      "held": 22,
       "present": 14,
-      "percentage": "70.0%"
+      "percentage": "63.6%"
     }
   ],
-  "overall_percentage": "84.09 %",
-  "timestamp": "10/10/2026 07:25"
+  "overall_percentage": "83.52 %",
+  "timestamp": "10/10/2026 15:56"
 }
