@@ -1,83 +1,83 @@
 {
   "subjects": [
     {
-      "sno": "1",
+      "sno": "15",
       "subject": "Deep Learning",
       "held": 62,
       "present": 51,
       "percentage": "82.3%"
     },
     {
-      "sno": "2",
+      "sno": "16",
       "subject": "Human Resources & Project Management",
       "held": 35,
       "present": 28,
       "percentage": "80.0%"
     },
     {
-      "sno": "3",
+      "sno": "17",
       "subject": "Devops",
       "held": 62,
       "present": 49,
       "percentage": "79.0%"
     },
     {
-      "sno": "4",
+      "sno": "18",
       "subject": "Generative AI",
       "held": 67,
       "present": 54,
       "percentage": "80.6%"
     },
     {
-      "sno": "5",
+      "sno": "19",
       "subject": "Utilization of Electrical Energy",
       "held": 51,
       "present": 44,
       "percentage": "86.3%"
     },
     {
-      "sno": "6",
+      "sno": "20",
       "subject": "Prompt Engineering",
       "held": 55,
       "present": 51,
       "percentage": "92.7%"
     },
     {
-      "sno": "7",
+      "sno": "21",
       "subject": "Constitution of India",
       "held": 30,
       "present": 26,
       "percentage": "86.7%"
     },
     {
-      "sno": "8",
+      "sno": "22",
       "subject": "Evaluation of Industry Internship /Mini Project",
       "held": 20,
       "present": 16,
       "percentage": "80.0%"
     },
     {
-      "sno": "9",
+      "sno": "23",
       "subject": "Technical Training",
       "held": 45,
       "present": 39,
       "percentage": "86.7%"
     },
     {
-      "sno": "10",
+      "sno": "24",
       "subject": "SELF LEARNING",
       "held": 16,
       "present": 14,
       "percentage": "87.5%"
     },
     {
-      "sno": "11",
+      "sno": "25",
       "subject": "ASSOCIATION",
       "held": 22,
       "present": 14,
       "percentage": "63.6%"
     }
   ],
-  "overall_percentage": "83.01 %",
-  "timestamp": "15/10/2026 15:14"
+  "overall_percentage": "86.67 %",
+  "timestamp": "16/10/2026 06:02"
 }
